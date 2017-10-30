@@ -1,4 +1,4 @@
-# A11y Recources
+# A11y Resources
 
 ### E-Books
 ---
