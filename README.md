@@ -22,3 +22,5 @@
 ---
 **[ebay Mindpatters](https://ebay.gitbooks.io/mindpatterns/content/)**: This book will assist frontend developers in building accessible e-commerce websites and components.
 This book is not a visual design system or a CSS framework (à la Bootstrap) - it is instead intended to complement those systems & tools.
+
+**[Inclusive Front-End Design Patterns (Not Free)](https://www.smashingmagazine.com/inclusive-design-patterns/)**: Everything you need to know about accessibility gathered in one practical, smashing book, fully dedicated to building and designing accessible user interfaces.
