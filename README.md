@@ -3,14 +3,17 @@
 ## Documentaion
 
 **[Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Accessibility)**: Accessibility in Web development means enabling as many people as possible to use Web sites, even when those people's abilities are limited in some way. Here we provide information on developing content to be accessible.
+
 ---
 ## Blogs
 
 **[Accessibility Wins](https://a11ywins.tumblr.com/)**: Showcasing accessible user interfaces and tools.
+
 ---
 ## Guidelines
 
 **[WCAG 2.0 Interactive](https://www.w3.org/WAI/WCAG20/quickref/)**: A customizable quick reference to Web Content Accessibility Guidelines (WCAG) 2.0 requirements (success criteria) and techniques.
+
 ---
 ## Courses
 
