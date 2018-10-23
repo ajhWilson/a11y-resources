@@ -14,6 +14,9 @@
 
 **[WCAG 2.0 Interactive](https://www.w3.org/WAI/WCAG20/quickref/)**: A customizable quick reference to Web Content Accessibility Guidelines (WCAG) 2.0 requirements (success criteria) and techniques.
 
+**[GSA Guidlines for testing](https://www.section508.gov/test/trusted-tester)**: The Interagency Trusted Tester Baseline provides standardized test scripts that can be used to create an accessibility test process. The current baseline addresses full conformance to the Original 508 Standards for web and software, and provides support for the Revised 508 Standards where overlaps occur.
+**[PDF](https://www.dhs.gov/sites/default/files/publications/Baseline_Tests_for_Software_and_Web_Accessibility_v2_0_2.pdf)**
+
 ---
 ## Courses
 
